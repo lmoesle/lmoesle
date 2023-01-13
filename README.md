@@ -19,7 +19,7 @@ I'm from Germany and currently working at Miragon.
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=2c73d2)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C983%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C304%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -104,7 +104,7 @@ Dockerfile               5 repos             ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/lmoesle/lmoesle/main/charts/bar_graph.png) 
 
 
- Last Updated on 13/01/2023 16:56:25 UTC
+ Last Updated on 13/01/2023 17:01:07 UTC
 <!--END_SECTION:waka-->
 
 [//]: # (## GitHub Stats)
