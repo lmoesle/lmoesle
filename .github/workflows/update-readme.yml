@@ -2,7 +2,6 @@ name: Update Readme
 
 on:
   schedule:
-    # Runs at 12am IST
     - cron: '00 3 * * *'
   workflow_dispatch:
   push:
