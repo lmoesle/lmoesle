@@ -18,12 +18,21 @@ I'm from Germany and currently working at Miragon.
 ![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2c73d2)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=Jenkins&logoColor=white&color=2c73d2)
 
-## GitHub Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-<a href="https://github.com/lmoesle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmoesle&hide=html,tex&title_color=2c73d2&text_color=c9cacc&icon_color=2c73d2&bg_color=1d1f21&langs_count=5" />
-</a>
-<a href="https://github.com/lmoesle">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lmoesle&show_icons=true&line_height=27&count_private=true&title_color=2c73d2&text_color=c9cacc&icon_color=2c73d2&bg_color=1d1f21" alt="lmoesle github stats" />
-</a>
+[//]: # (## GitHub Stats)
+
+[//]: # ()
+[//]: # (<a href="https://github.com/lmoesle">)
+
+[//]: # (  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lmoesle&hide=html,tex&title_color=2c73d2&text_color=c9cacc&icon_color=2c73d2&bg_color=1d1f21&langs_count=5" />)
+
+[//]: # (</a>)
+
+[//]: # (<a href="https://github.com/lmoesle">)
+
+[//]: # (  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lmoesle&show_icons=true&line_height=27&count_private=true&title_color=2c73d2&text_color=c9cacc&icon_color=2c73d2&bg_color=1d1f21" alt="lmoesle github stats" />)
+
+[//]: # (</a>)
 
