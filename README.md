@@ -22,10 +22,10 @@ I'm from Germany and currently working at Miragon.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    121 commits    ███████░░░░░░░░░░░░░░░░░░   28.34% 
-🌆 Daytime    192 commits    ███████████░░░░░░░░░░░░░░   44.96% 
-🌃 Evening    114 commits    ██████░░░░░░░░░░░░░░░░░░░   26.7% 
-🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+🌞 Morning      121 commits       ███████░░░░░░░░░░░░░░░░░░   28.34 % 
+🌆 Daytime      192 commits       ███████████░░░░░░░░░░░░░░   44.96 % 
+🌃 Evening      114 commits       ██████░░░░░░░░░░░░░░░░░░░   26.70 % 
+🌙 Night          0 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 ```
 
@@ -36,37 +36,36 @@ I'm from Germany and currently working at Miragon.
 ⌚︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-Other                    4 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   27.22% 
-YAML                     3 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   22.45% 
-Properties               1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   11.11% 
-Markdown                 1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.03% 
-JSON                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   8.21%
+Other                    6 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   35.13 % 
+YAML                     4 hrs 39 mins       ██████░░░░░░░░░░░░░░░░░░░   25.15 % 
+Java                     1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
+JSON                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Markdown                 1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
 
 🔥 Editors: 
-IntelliJ                 11 hrs 44 mins      █████████████████░░░░░░░░   70.93% 
-Google Calendar          4 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   27.18% 
-VS Code                  18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.89%
+IntelliJ                 12 hrs              ████████████████░░░░░░░░░   64.87 % 
+Google Calendar          6 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   35.13 % 
 
 💻 Operating System: 
-Linux                    12 hrs 3 mins       ██████████████████░░░░░░░   72.82% 
-Unknown OS               4 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   27.18%
+Linux                    12 hrs              ████████████████░░░░░░░░░   64.87 % 
+Unknown OS               6 hrs 30 mins       ████████░░░░░░░░░░░░░░░░░   35.13 % 
 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.75% 
-Java                     10 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.87% 
-Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
-TeX                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.09% 
-Dockerfile               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.43%
+TypeScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+Java                     10 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+TeX                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Dockerfile               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
 
 ```
 
 
 
- Last Updated on 07/02/2023 19:57:10 UTC
+ Last Updated on 08/02/2023 03:19:38 UTC
 <!--END_SECTION:waka-->
 
 [//]: # (## GitHub Stats)
