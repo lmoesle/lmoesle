@@ -22,51 +22,49 @@ I'm from Germany and currently working at Miragon.
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning      129 commits       ███████░░░░░░░░░░░░░░░░░░   29.19 % 
-🌆 Daytime      195 commits       ███████████░░░░░░░░░░░░░░   44.12 % 
-🌃 Evening      118 commits       ██████░░░░░░░░░░░░░░░░░░░   26.70 % 
-🌙 Night          0 commits       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
+🌞 Morning                129 commits         ███████░░░░░░░░░░░░░░░░░░   29.19 % 
+🌆 Daytime                195 commits         ███████████░░░░░░░░░░░░░░   44.12 % 
+🌃 Evening                118 commits         ███████░░░░░░░░░░░░░░░░░░   26.70 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Berlin
+🕑︎ Time Zone: Europe/Berlin
 
 💬 Programming Languages: 
-TypeScript               7 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   29.28 % 
-Java                     6 hrs 56 mins       ██████░░░░░░░░░░░░░░░░░░░   25.82 % 
-Other                    5 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-JSON                     3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Markdown                 57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+Java                     13 hrs 22 mins      ████████████░░░░░░░░░░░░░   47.78 % 
+TypeScript               4 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+Other                    4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+JSON                     1 hr 16 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+XML                      1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 🔥 Editors: 
-IntelliJ                 20 hrs 57 mins      ███████████████████░░░░░░   77.89 % 
-Google Calendar          5 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-Obsidian                 26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+IntelliJ                 22 hrs 54 mins      ████████████████████░░░░░   81.83 % 
+Google Calendar          4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+Obsidian                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 
 💻 Operating System: 
-Linux                    21 hrs 24 mins      ████████████████████░░░░░   79.56 % 
-Unknown OS               5 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   20.44 % 
-
+Linux                    23 hrs 29 mins      █████████████████████░░░░   83.92 % 
+Unknown OS               4 hrs 30 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
 TypeScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Java                     10 repos            ████░░░░░░░░░░░░░░░░░░░░░   18.87 % 
-Python                   8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-TeX                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   15.09 % 
+Java                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+Python                   8 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
 Dockerfile               5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-
+Makefile                 2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 ```
 
 
 
- Last Updated on 22/02/2023 03:18:16 UTC
+
+ Last Updated on 23/02/2023 03:16:21 UTC
 <!--END_SECTION:waka-->
 
 [//]: # (## GitHub Stats)
